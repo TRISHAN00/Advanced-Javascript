@@ -52,3 +52,22 @@
 
 
 // console.log(number(10, 25));
+
+
+
+
+// function number(a, b) {
+//     return a + b
+// }
+
+// console.log(number(10, 20));
+
+
+// let number = (a, b) => a - b
+
+// console.log(number(40, 30));
+
+
+
+// let number = a => console.log(a);
+// number(10)
