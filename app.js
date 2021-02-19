@@ -54,3 +54,17 @@
 
 
 
+// const arr = {
+//     name: 'Trishan',
+//     address: 'Balakhal'
+// }
+
+// const json = JSON.stringify(arr)
+// const jsonToObj = JSON.parse(json)
+// console.log(json);
+// console.log(jsonToObj);
+
+
+fetch('https://jsonplaceholder.typicode.com/')
+  .then(response => response.json())
+  .then(json => console.log(json))
