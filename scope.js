@@ -14,9 +14,9 @@
 // console.log(output);
 
 
-const a = 10
+// const a = 10
 
-function b() {
-    console.log(a);
-}
-b()
+// function b() {
+//     console.log(a);
+// }
+// b()

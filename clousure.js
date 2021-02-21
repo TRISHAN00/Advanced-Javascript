@@ -33,3 +33,11 @@
 // console.log(clock1());
 // console.log(clock1());
 // console.log(clock1());
+
+
+
+function unlimited(...number) {
+    return number
+}
+
+console.log(unlimited(10, 20, 30));
